@@ -1,0 +1,27 @@
+.fa-star {
+    font-size : 50px;
+    align-content: center;
+}
+
+.rowsetting{
+    margin-top: 80px 0px !important;
+    
+    }
+    
+    .imgsetting{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    }
+    .card{
+        margin-top: 40px;
+    }
+    
+    .ourteam h1{
+        font-size: 50px;
+        font-weight: bold;
+    
+    }
+    .teamsetting{
+        margin-top:50px;
+    }
